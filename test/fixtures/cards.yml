@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tag: MyString
+  prompt: MyString
+  response: MyString
+  mastered: false
+
+two:
+  tag: MyString
+  prompt: MyString
+  response: MyString
+  mastered: false
